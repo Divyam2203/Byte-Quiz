@@ -211,8 +211,8 @@ header h1 {
   max-width: 40rem;
   margin: 2rem auto;
   padding: 2rem;
-  background-color: #0044a0;
-  background-image: linear-gradient(0deg, #0044a0 10%, #4055f5 90%);color: #191321;
+  background-color:  #4055f5;
+  /* background-image: linear-gradient(0deg, #0044a0 10%, 0%);color: #191321; */
   border-radius: 8px;
   box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.6);
   animation: slide-in-from-bottom 0.7s ease-out;
@@ -279,11 +279,11 @@ header h1 {
 }
 
 #summary .user-answer.correct {
-  color: #054e37;
+  color: #5cd68b;
 }
 
 #summary .user-answer.wrong {
-  color: #730b4b;
+  color: #f04d5d;
 }
 
 #summary .user-answer.skipped {
@@ -295,8 +295,8 @@ header h1 {
   display: flex;
   justify-content: space-between;
  
-  width: 60%;
-  margin: auto;
+  width: 100%;
+  margin: 0;
 
   padding-bottom: 2rem;
   border-bottom: 2px solid #594276;

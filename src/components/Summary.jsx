@@ -26,11 +26,11 @@ const Summary = ({ userAnswers }) => {
         </p>
         <p>
           <span className="number">{correctAnswersShare}%</span>
-          <span className="text">answere correctly</span>
+          <span className="text">answered correctly</span>
         </p>
         <p>
           <span className="number">{wrongAnswersShare}%</span>
-          <span className="text">answere incorrectly</span>
+          <span className="text">answered incorrectly</span>
         </p>
       </div>
       <ol>
