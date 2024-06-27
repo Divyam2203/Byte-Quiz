@@ -2,6 +2,9 @@
 
 Byte Quiz is a React-based quiz application designed to test your knowledge of computer science concepts in a fun and interactive way.
 
+## Screenshot
+<img src="./public/Screenshot (355).png">
+
 ## Features
 
 - Multiple Choice Questions: Answer a variety of multiple-choice questions covering various computer science topics.
